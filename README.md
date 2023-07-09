@@ -1,2 +1,2 @@
-# Resim-Duzenleyici
-Yapmış olduğum hoş tasarımlı ve işe yarar resim düzenleyici projesi
+# Resim-Düzenleyici
+Yapmış Olduğum Hoş Tasarımlı Ve İşe Yarar Resim Düzenleyici Projesi
